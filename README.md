@@ -24,12 +24,10 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
   - Description: Share some insight into this project, maybe how it helps others or how it's pushing your skills further.
 -->
 
-
-
 ### 🤝 Open Source Contributions:
 
 <a href="https://github.com/Bladesight/Bladesight" target="_blank"><img src="https://intro-to-btt-using-python-assets.s3.amazonaws.com/bladesight_logo_horizontal_ORIGINAL.jpg" alt="Bladesight Logo" height="30"></a>
-  - Description: A Blade Tip Timing (BTT) Python Package developed by Dr D.H. Diamond. I am very passionate about his research and BTT and my research is focused on using these tools for my experimental work and BTT investigations. I am excited to keep contributing to this domain and I am passionate about this being the only open-source BTT Python package to exist.
+  - Description: A Blade Tip Timing (BTT) Python Package developed by [Dr D.H. Diamond](https://github.com/Bladesight). I am very passionate about his research and BTT and my research is focused on using these tools for my experimental work and BTT investigations. I am excited to keep contributing to this domain and I am passionate about this being the only open-source BTT Python package to exist.
   
 [Signal Processing](https://github.com/JustinSmith66/Signal-Processing)
   - Description: A basic signal processing package with functions I personally use very often. This is something I started in my spare time and just enjoy contributing to it when I have free time.
