@@ -4,7 +4,7 @@
 
 ### Welcome to my GitHub Profile!
 
-I am a passionate developer always eager to learn, contribute, and create. Here's a peek into what I'm currently working on and my open-source contributions.
+I am a mechanical engineer masters candidate and I am a passionate developer always eager to learn, contribute, and create. Here's a peek into what I'm currently working on and my open-source contributions.
 
 ---
 <!--
@@ -22,7 +22,7 @@ I am a passionate developer always eager to learn, contribute, and create. Here'
 
 ### 🤝 Open Source Contributions:
 
-- **Contribution 1:** [Bladesight]([link-to-repo](https://github.com/Bladesight))
+- **Contribution 1:** [Bladesight](https://github.com/Bladesight)
   - Description: A Blade Tip Timing (BTT) Python Package developed by Dr D.H. Diamond. I am very passionate about his research and BTT and my research is focused on using these tools for my experimental work and BTT investigations. I am excited to keep contributing to this domain and I am passionate about this being the only open-source BTT Python package to exist.
   
 - **Contribution 2:** [Signal Processing](https://github.com/JustinSmith66/Signal-Processing)
@@ -41,7 +41,7 @@ I am a passionate developer always eager to learn, contribute, and create. Here'
 ### 📫 How to Reach Me:
 
 - **Email:** [66smithjustin@gmail.com]
-- **LinkedIn:** [Justin Smith](https://www.linkedin.com/in/justin-s-507338116/)]
+- **LinkedIn:** [Justin Smith](https://www.linkedin.com/in/justin-s-507338116/)
 
 ---
 
