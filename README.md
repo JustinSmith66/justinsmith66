@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Justin Smith 👋
 
 ### Welcome to my GitHub Profile!
 
@@ -41,7 +41,7 @@ I am a passionate developer always eager to learn, contribute, and create. Here'
 ### 📫 How to Reach Me:
 
 - **Email:** [66smithjustin@gmail.com]
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/justin-s-507338116/)]
+- **LinkedIn:** [Justin Smith](https://www.linkedin.com/in/justin-s-507338116/)]
 
 ---
 
