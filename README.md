@@ -6,9 +6,6 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
 
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-s-507338116/) 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
-
-
 <a href="mailto:66smithjustin@gmail.com"><span style="font-size: 5000em;">📧 66smithjustin@gmail.com</span></a>
 
 ![profile view count](https://komarev.com/ghpvc/?username=justinsmith66)
