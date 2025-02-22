@@ -6,11 +6,63 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
 
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-s-507338116/) 
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+
+
 <a href="mailto:66smithjustin@gmail.com"><span style="font-size: 5000em;">📧 66smithjustin@gmail.com</span></a>
 
 ![profile view count](https://komarev.com/ghpvc/?username=justinsmith66)
 
 ---
+
+
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justinsmith66&show_icons=true&locale=en&layout=compact" alt="justinsmith66" /></p>
+-->
+
+ <div style="display: flex; justify-content: space-around; align-items: flex-start;">
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=justinsmith66&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=justinsmith66&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=justinsmith66&show_icons=true" alt="GitHub Stats" />
+    </picture>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=justinsmith66&row=2&column=3&theme=tokyonight" alt="GitHub Profile Trophy" />
+    </a>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
+    </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> 
+    </a> 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /> 
+    </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> 
+    </a> 
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> 
+    </a> 
+    <img alt="Lightning" src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/ptl_banner.png" height="40px" style="max-width: 50%;" /> 
+</div>
+
+
+
+
+
+
+
+
+
 <!--
 ### 🌱 Currently Working On:
 
@@ -40,7 +92,7 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
 ---
 
 ### 👨‍💻 Technologies and Tools I Love:
-<img alt="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="50px" style="max-width: 100%;"> <img alt="Pytorch" src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" height="50px" style="max-width: 100%;"> <img alt="Lightning" src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/ptl_banner.png" height="50px" style="max-width: 100%;">
+<img alt="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="50px" style="max-width: 100%;"> <img alt="Pytorch" src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" height="50px" style="max-width: 100%;"> 
 <!--
 - **Languages:** Python
 - **Frameworks:** 
