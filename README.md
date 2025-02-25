@@ -30,13 +30,42 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
     </a>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> 
-    </a> 
+<!--
+### 🌱 Currently Working On:
+
+- **Project 1:** [Project Name](link-to-project)
+  - Description: A brief overview of what the project is about, what technologies you're using, and what your goals are for the project.
+  
+- **Project 2:** [Project Name](link-to-project)
+  - Description: Another project you're actively involved in. Share a bit about the challenges you're tackling and what excites you about it.
+  
+- **Project 3:** [Project Name](link-to-project)
+  - Description: Share some insight into this project, maybe how it helps others or how it's pushing your skills further.
+-->
+
+### 🤝 Open Source Contributions:
+
+<a href="https://github.com/Bladesight/Bladesight" target="_blank"><img src="https://intro-to-btt-using-python-assets.s3.amazonaws.com/bladesight_logo_horizontal_ORIGINAL.jpg" alt="Bladesight Logo" height="30"></a>
+  - Description: A Blade Tip Timing (BTT) Python Package developed by [Dr D.H. Diamond](https://github.com/Bladesight). I am very passionate about his research and BTT and my research is focused on using these tools for my experimental work and BTT investigations. I am excited to keep contributing to this domain and I am passionate about this being the only open-source BTT Python package to exist.
+  
+[Signal Processing](https://github.com/JustinSmith66/Signal-Processing)
+  - Description: A basic signal processing package with functions I personally use very often. This is something I started in my spare time and just enjoy contributing to it when I have free time.
+
+<!--
+- **Contribution 1:** <a href="https://github.com/Bladesight/Bladesight" target="_blank"><img src="https://intro-to-btt-using-python-assets.s3.amazonaws.com/bladesight_logo_horizontal_ORIGINAL.jpg" alt="Bladesight Logo" height="50" style="vertical-align: middle;"></a>
+  - Description: A Blade Tip Timing (BTT) Python Package developed by Dr D.H. Diamond. I am very passionate about his research and BTT and my research is focused on using these tools for my experimental work and BTT investigations. I am excited to keep contributing to this domain and I am passionate about this being the only open-source BTT Python package to exist.
+-->
+
+---
+
+### 👨‍💻 Technologies and Tools I Love:
+<div style="display: flex; justify-content: center; align-items: flex-start;">  
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
     </a> 
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /> 
+    </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> 
     </a> 
@@ -73,41 +102,6 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
 
 
 
-
-
-
-
-
-<!--
-### 🌱 Currently Working On:
-
-- **Project 1:** [Project Name](link-to-project)
-  - Description: A brief overview of what the project is about, what technologies you're using, and what your goals are for the project.
-  
-- **Project 2:** [Project Name](link-to-project)
-  - Description: Another project you're actively involved in. Share a bit about the challenges you're tackling and what excites you about it.
-  
-- **Project 3:** [Project Name](link-to-project)
-  - Description: Share some insight into this project, maybe how it helps others or how it's pushing your skills further.
--->
-
-### 🤝 Open Source Contributions:
-
-<a href="https://github.com/Bladesight/Bladesight" target="_blank"><img src="https://intro-to-btt-using-python-assets.s3.amazonaws.com/bladesight_logo_horizontal_ORIGINAL.jpg" alt="Bladesight Logo" height="30"></a>
-  - Description: A Blade Tip Timing (BTT) Python Package developed by [Dr D.H. Diamond](https://github.com/Bladesight). I am very passionate about his research and BTT and my research is focused on using these tools for my experimental work and BTT investigations. I am excited to keep contributing to this domain and I am passionate about this being the only open-source BTT Python package to exist.
-  
-[Signal Processing](https://github.com/JustinSmith66/Signal-Processing)
-  - Description: A basic signal processing package with functions I personally use very often. This is something I started in my spare time and just enjoy contributing to it when I have free time.
-
-<!--
-- **Contribution 1:** <a href="https://github.com/Bladesight/Bladesight" target="_blank"><img src="https://intro-to-btt-using-python-assets.s3.amazonaws.com/bladesight_logo_horizontal_ORIGINAL.jpg" alt="Bladesight Logo" height="50" style="vertical-align: middle;"></a>
-  - Description: A Blade Tip Timing (BTT) Python Package developed by Dr D.H. Diamond. I am very passionate about his research and BTT and my research is focused on using these tools for my experimental work and BTT investigations. I am excited to keep contributing to this domain and I am passionate about this being the only open-source BTT Python package to exist.
--->
-
----
-
-### 👨‍💻 Technologies and Tools I Love:
-<img alt="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="50px" style="max-width: 100%;"> <img alt="Pytorch" src="https://github.com/pytorch/pytorch/raw/main/docs/source/_static/img/pytorch-logo-dark.png" height="50px" style="max-width: 100%;"> 
 <!--
 - **Languages:** Python
 - **Frameworks:** 
