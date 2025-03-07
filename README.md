@@ -99,7 +99,7 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
     <a href="https://scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40" height="40" />
     </a>
-    <a href="https://scipy.org/" target="_blank" rel="noreferrer">
+    <a href="https://plotly.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/plotly/plotly-official.svg" alt="Plotly" width="40" height="40" />
     </a>
 
