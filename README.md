@@ -77,8 +77,10 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
     </a> 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> 
-    </a> 
+    </a>
+    <a href="https://lightning.ai/" target="_blank" rel="noreferrer">
     <img alt="Lightning" src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/ptl_banner.png" height="40px" style="max-width: 50%;" /> 
+    </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40" />
     </a>
