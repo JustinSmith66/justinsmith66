@@ -5,6 +5,7 @@
 I am a mechanical engineer masters candidate at the University of Pretoria and I am a passionate developer always eager to learn, contribute, and create. Here's a peek into what I'm currently working on and my open-source contributions.
 
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-s-507338116/) 
+[![ORCID Profile](https://img.shields.io/badge/ORCID-00A371?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0001-7956-798X)
 
 <a href="mailto:66smithjustin@gmail.com"><span style="font-size: 5000em;">📧 66smithjustin@gmail.com</span></a>
 
