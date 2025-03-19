@@ -112,8 +112,11 @@ I am a mechanical engineer masters candidate at the University of Pretoria and I
     <a href="https://duckdb.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/duckdb/duckdb/blob/main/logo/DuckDB.ico" alt="DuckDB" width="40" height="40" />
     </a>
- <a href="https://numba.pydata.org/" target="_blank" rel="noreferrer">
+<a href="https://numba.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/numba/numba/blob/main/docs/_static/numba-blue-icon-rgb.svg" alt="Numba" width="40" height="40" />
+</a>
+<a href="https://docs.astral.sh/uv/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/astral-sh/uv/blob/main/docs/assets/logo-letter.svg" alt="UV" width="40" height="40" />
 </a>
 </div>
 
